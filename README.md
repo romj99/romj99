@@ -6,7 +6,7 @@ I hold a degree in Economics from the [University of Buenos Aires](https://www.u
 
 I enjoy designing and building data products — from ML pipelines and applications to automation systems — that are both technically robust and strategically impactful. Whether developing infrastructure, modeling complex systems, or automating workflows, I’m committed to aligning technical innovation with real business value.
 
-At my core, I’m a builder. I like to create tools, systems, and products that make a difference.
+At my core, I’m a builder. I like to create tools, systems, and products that make the difference.
 
 ## 🌱 I’m currently learning
 - Deep Learning architectures.
